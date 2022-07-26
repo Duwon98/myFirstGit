@@ -6,4 +6,3 @@
 | **Week1** | **Week2** |
 | - | - |
 | Introduction to JavaScript and Node.js| Code Version Control with Git and GitHub|
-
