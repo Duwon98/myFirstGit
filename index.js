@@ -1,4 +1,4 @@
-console.log("Hello world");
+console.log("World");
 
 const addingFunction = (a,b) => {
     console.log(a+b);
